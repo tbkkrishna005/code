@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
    int x,q,s=0;
-   cin>>x>>p;
+   cin>>x>>q;
    q=100-q;
    while(x>0)
    {
